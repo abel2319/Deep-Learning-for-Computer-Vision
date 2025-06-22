@@ -42,7 +42,7 @@ This repository contains all of my work and learning progress through the **Appl
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Abel KPOHINTO**  
 AI/ML Enthusiast | Computer Vision Learner  
 [LinkedIn](https://www.linkedin.com/in/abel-kpohinto-79b2b8236/) • [Portfolio](https://github.com/abel2319/Deep-Learning-for-Computer-Vision) • [Email](mailto:kpohinto.abel@gmail.com)
 
